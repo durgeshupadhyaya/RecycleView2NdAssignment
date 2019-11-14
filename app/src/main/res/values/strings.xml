@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecycleView2NdAssignment</string>
+    <string-array name="countries">
+        <item>Select Your Country</item>
+        <item>Nepal</item>
+        <item>China</item>
+        <item>Pakistan</item>
+        <item>Bhutan</item>
+        <item>India</item>
+        <item>Bangladesh</item>
+        <item>Afghanistan</item>
+        <item>Sri Lanka</item>
+    </string-array>
+</resources>
